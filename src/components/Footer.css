@@ -1,0 +1,22 @@
+.footer {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 1rem; /* Padding for the footer */
+    text-align: center; /* Center the text */
+    position: relative; /* Positioning */
+    bottom: 0; /* Stick to the bottom */
+    width: 100%; /* Full width */
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margin */
+    color: #333; /* Text color */
+  }
+  
+  .footer a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
